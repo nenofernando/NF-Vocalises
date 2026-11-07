@@ -1,0 +1,39 @@
+{
+  "vocalises": [
+    {
+      "id": "arpejo-lip-trill",
+      "title": "1 · Trinado de lábios em arpejo",
+      "description": "Faça o trinado de lábios (brrr) subindo e descendo o arpejo. Solte o ar sem forçar.",
+      "bpm": 80, "step": 1,
+      "pattern": [[0,1],[4,1],[7,1],[12,1],[7,1],[4,1],[0,2]]
+    },
+    {
+      "id": "cinco-notas-nha",
+      "title": "2 · Cinco notas em \"Nhá\"",
+      "description": "Escala de cinco notas, sobe e desce, com a sílaba \"Nhá\". Mantenha a garganta livre.",
+      "bpm": 92, "step": 1,
+      "pattern": [[0,1],[2,1],[4,1],[5,1],[7,1],[5,1],[4,1],[2,1],[0,2]]
+    },
+    {
+      "id": "arpejo-mi",
+      "title": "3 · Arpejo 1-3-5-3-1 em \"Mi\"",
+      "description": "Arpejo curto com a vogal \"I\". Foque em acertar o centro de cada nota.",
+      "bpm": 88, "step": 1,
+      "pattern": [[0,1],[4,1],[7,1],[4,1],[0,2]]
+    },
+    {
+      "id": "salto-quinta-ma",
+      "title": "4 · Salto de quinta em \"Ma\"",
+      "description": "Salte da nota inicial para a quinta e volte, com a vogal \"A\" bem aberta e leve.",
+      "bpm": 76, "step": 1,
+      "pattern": [[0,1],[7,2],[0,2]]
+    },
+    {
+      "id": "escala-completa-la",
+      "title": "5 · Escala completa em \"Lá\"",
+      "description": "Escala maior inteira, sobe e desce, ligando as notas (legato) com a sílaba \"Lá\".",
+      "bpm": 100, "step": 2,
+      "pattern": [[0,1],[2,1],[4,1],[5,1],[7,1],[9,1],[11,1],[12,1],[11,1],[9,1],[7,1],[5,1],[4,1],[2,1],[0,2]]
+    }
+  ]
+}
